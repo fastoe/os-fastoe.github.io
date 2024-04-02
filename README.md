@@ -1,1 +1,1 @@
-# os-fastoe.github.io
+https://os.fastoe.com
